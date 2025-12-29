@@ -2,7 +2,7 @@
 .env
 
 # Binary
-cli-interactive
+/cli-interactive
 
 # IDE
 .idea/
